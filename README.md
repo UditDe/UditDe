@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UditDe
-- 👀 I’m interested in ML&AI as well as CP
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mail me at uditde.com@gmail.com
+- 👀 I’m interested in ML&AI and currently on APP devlopment and Backend Web Dev
+- 🌱 I’m currently learning Django 
+- 💞️ I’m looking to contribute on relevant project on Web Dev
+- 📫 How to reach me ... mail me at udit.dev.com@gmail.com
 
 <!---
 UditDe/UditDe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
