@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UditDe
 - 👀 I’m interested in ML&AI and currently on APP devlopment and Backend Web Dev
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to contribute on relevant project on Web Dev
 - 📫 How to reach me ... mail me at udit.dev.com@gmail.com
 
