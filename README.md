@@ -1,3 +1,5 @@
+![masterHead](./banner-monkey.png)
+
 <h1 align="center">Hi 👋, I'm Udit</h1>
 <h3 align="center">A passionate Web developer and AI-ML enthusiast from India</h3>
 <img align='right' alt="Coding" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e476rb8n6olkjqamswr7a41zlyv0jtqbcdp5geq54q8&rid=giphy.gif&ct=g" width="350">
@@ -9,7 +11,9 @@
 - 📫 How to reach me **udit.dev.com@gmail.com**
 
 - ⚡ Fun fact **Lets overthink & Smile in pain!!**
+
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/uditde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="uditde" height="30" width="40" /></a>
@@ -26,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 | <a href="https://github.com/nemesisLW/github-readme-stats"><img align="center" src="https://github-readme-stats-nemesislw.vercel.app//api?username=UditDe&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="Udit's github stats" /></a> | <a href="https://github.com/UditDe/github-readme-stats"><img align="center" src="https://github-readme-stats-nemesislw.vercel.app//api/top-langs/?username=UditDe&layout=compact&hide=css,scss,jupyter%20notebook&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [<img align="center" src="https://streak-stats.demolab.com/?user=UditDe&theme=gotham" alt="Udit's github streak" />](https://git.io/streak-stats)
